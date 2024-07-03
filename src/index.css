@@ -1,0 +1,12 @@
+body {
+  background-color: grey;
+}
+
+button {
+  width: 100px;
+  height: 100px;
+  background: blue;
+
+  display: block;
+  margin: 10px;
+}
